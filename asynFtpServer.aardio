@@ -612,7 +612,7 @@ end intellisense**/
 //使用演示
 import win.ui;
 /*DSG{{*/
-var winform = win.form(text="天图-扫描服务器";right=759;bottom=469)
+var winform = win.form(text="FTP 服务器";right=759;bottom=469)
 winform.add(
 txtMessage={cls="edit";left=10;top=11;right=753;bottom=460;edge=1;font=LOGFONT(h=-20);multiline=1;vscroll=1;z=1}
 )
